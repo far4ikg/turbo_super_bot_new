@@ -1,0 +1,4 @@
+.env
+.idea
+/parsing/database/all_products.db
+/parsing/database/parsing.db

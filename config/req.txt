@@ -1,0 +1,6 @@
+setuptools==60.8.2
+wheel==0.37.1
+python-dotenv==0.19.2
+bs4==0.0.1
+aiogram==2.19
+pip==22.0.3
